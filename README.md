@@ -40,7 +40,7 @@ When I'm not exploring cybersecurity, you'll probably find me watching or playin
 ## 📫 How to Reach Me
 
 * **LinkedIn:** www.linkedin.com/in/kenneth-ogili
-* **Email:** [enneth.ogili@yahoo.com
+* **Email:** kenneth.ogili@yahoo.com
 
 ---
 
