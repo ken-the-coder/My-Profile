@@ -2,9 +2,13 @@
 
 Welcome to my GitHub profile!
 
-I'm a cybersecurity enthusiast with a background in **Telecommunications Project Management** and **Business Analysis**. Based in **Brandon, Manitoba, Canada**, I enjoy learning new technologies, solving technical challenges, and building practical security solutions. I studied at the **University of Nigeria** and **Conestoga College, Ontario, Canada**, and I'm committed to growing my expertise in cybersecurity through hands-on labs, projects, and continuous learning.
+I am a cybersecurity professional with expertise in network security, security operations, and infrastructure protection, backed by a strong foundation in Telecommunications Project Management and Business Analysis. My experience spans designing, deploying, and securing network environments while applying analytical thinking to identify, investigate, and mitigate security risks.
 
-## 🌱 What I'm Currently Learning
+I leverage industry-standard tools such as Wireshark, Wazuh, pfSense, Snort, Nmap, and Cisco Packet Tracer to build, monitor, and defend enterprise networks through hands-on security projects, threat detection, incident analysis, and continuous security improvement. My background in telecommunications enables me to approach cybersecurity with a deep understanding of network architecture, operational resilience, and infrastructure security.
+
+Based in Brandon, Manitoba, Canada, I am passionate about solving complex security challenges, embracing emerging technologies, and contributing to a more secure digital ecosystem through continuous learning, collaboration, and practical innovation.
+
+## 🌱 Core Focus Areas
 
 * Security Operations Center (SOC) Analysis
 * Penetration Testing
@@ -25,11 +29,13 @@ I'm a cybersecurity enthusiast with a background in **Telecommunications Project
 
 ## 🎯 Goals
 
-My goal is to build a successful career in cybersecurity by becoming a:
+Cybersecurity Focus Areas
 
-* **SOC Analyst**
-* **Network Security Engineer**
-* **Penetration Tester**
+* **Security Operations (SOC) & Threat Detection**
+* **Network Security Engineering**
+* **Vulnerability Assessment & Penetration Testing**
+* **Threat Intelligence & Security Monitoring**
+* **Infrastructure Security**
 
 I enjoy working on hands-on security projects, building home labs, and continuously improving my technical skills while contributing to the cybersecurity community.
 
